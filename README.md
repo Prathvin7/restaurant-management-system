@@ -103,7 +103,7 @@ Ensure you have the following installed on your machine:
    Create a `.env` file in the root of the project and populate it with:
    ```env
    PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/RMS
+   MONGODB_URI=mongodb://localhost:27017/your-database-name
    ```
 
 4. **Start the Application**
